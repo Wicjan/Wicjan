@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wicjan
-- 👀 I’m interested in Games and programing solutions
+- 👀 I’m interested in games and programing solutions
 - 🌱 I’m currently learning C++ and Unreal Engine
 
 <!---
